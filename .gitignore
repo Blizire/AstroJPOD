@@ -1,0 +1,23 @@
+# Ignore IDE project-specific cache directory
+.gradle
+.idea
+.settings
+.vscode
+.project
+.classpath
+app/src/.settings
+app/src/.classpath
+app/src/.project
+app/src/config.cfg
+
+
+# Ignore Gradle build output directory
+build
+app/bin
+app/bin/*
+
+# Ignore files saved by the application
+app/*.jpg
+
+
+
